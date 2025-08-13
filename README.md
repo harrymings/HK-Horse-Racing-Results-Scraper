@@ -4,6 +4,7 @@ A Python script that automatically scrapes horse racing results from the Hong ko
 # Disclaimer
 This project is for educational purposes only and is not intended for commerical use. The author shall not be held liable for any claims, damages, or other liabilities arising from or in connection with the script or its use. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrymings)](https://github.com/anuraghazra/github-readme-stats)
 
 # Reminder
 Please install all necessary python packages by running
@@ -11,3 +12,4 @@ pip install -r requirements.txt
 
 # Sample 
 <img width="2373" height="899" alt="Sample_data" src="https://github.com/user-attachments/assets/b920b0a8-51de-4ea9-86d5-89350dded08c" />
+
