@@ -1,5 +1,6 @@
 # HK-Race-Results-Scraper
-A Python script that automatically scrapes horse racing results from the Hong kong Jockey Club (HKJC) website. It navigates through a user specificed date range, identifies valid race days, scrapes detailted results for each race and save the data into CSV files.
+A Python script that automatically scrapes horse racing results from the Hong kong Jockey Club (HKJC) website 
+<br><a>https://racing.hkjc.com/racing/information/English/racing/LocalResults.aspx</a>.</br> It navigates through a user specificed date range, identifies valid race days, scrapes detailted results for each race and save the data into CSV files.
 
 # Disclaimer
 This project is for educational purposes only and is not intended for commerical use. The author shall not be held liable for any claims, damages, or other liabilities arising from or in connection with the script or its use. 
